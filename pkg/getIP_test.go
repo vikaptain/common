@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/ory-am/common/pkg"
+	"github.com/vikaptain/common/pkg"
 	"github.com/stretchr/testify/assert"
 )
 

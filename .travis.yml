@@ -1,6 +1,6 @@
 language: go
 
-go_import_path: github.com/ory-am/common
+go_import_path: github.com/vikaptain/common
 
 services:
   - docker
